@@ -1,3 +1,3 @@
-duck
-mamhut
-cat
+Duck
+Mamhut
+Cat
