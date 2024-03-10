@@ -1,7 +1,6 @@
 git remote add origin https://github.com/Tlereng/GitLabb.git
 git checkout main
 git push -u origin main
-
 git tag -a v1.0 -m "verison 1.0" #commitid
 git rebase --interactive HEAD~2
 git checkout main
